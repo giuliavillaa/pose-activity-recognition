@@ -69,7 +69,7 @@ group.
 ## Repository
 
 ```
-notebooks/pose_recognition.ipynb    preprocessing, nested cross-validation, LIME
+pose_recognition.ipynb    preprocessing, nested cross-validation, LIME
 leakage_check.py                    distance analysis, temporal split, figure
 data/input_data.pkl                 landmarks and labels
 figures/                            confusion matrix, temporal structure
