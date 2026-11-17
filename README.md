@@ -17,8 +17,8 @@ visibility), the output format of a pose estimator such as MediaPipe Pose.
 
 Seven classes, roughly balanced (317 to 435 samples each):
 
-`left_bicep` · `right_bicep` · `left_tricep` · `right_tricep` ·
-`left_shoulder` · `right_shoulder` · `rest`
+`left_bicep`, `right_bicep`, `left_tricep`, `right_tricep`,
+`left_shoulder`, `right_shoulder`, `rest`
 
 ## Method
 
